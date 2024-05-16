@@ -1,0 +1,41 @@
+
+.container{
+    height: 600px;
+    width: 1000px;
+    border: 1px solid black;
+    margin-left: 250px;
+    background-color: rgb(172, 237, 237);
+    border-radius: 5px;
+}
+
+.content{
+    height: 600px;
+    width: 900px;
+    margin-left: 10px;
+}
+
+.multiSelection{
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(209, 51, 51);
+    color: white;
+    &:hover{
+        background-color: rgb(228, 177, 177);
+        color: black;
+    }
+}
+
+
+.contentID{
+    color: black;
+}
+
+.question{
+  color:black;
+}
+
+.answer{
+color:blue
+}
